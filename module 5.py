@@ -1,4 +1,4 @@
-"""
+
 import random
 
 def roll_dice(num_dice):
@@ -78,7 +78,8 @@ def main():
 
 if __name__ == "__main__":
         main()
-  """
+
+
         #quiz 4
 def main():
     cities = []
